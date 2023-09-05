@@ -18,16 +18,6 @@ namespace BlogApp.Application.Posts
         {
             var post = new Post(request.Title , request.Content);
             await _postRepository.AddAsync(post);
-            try
-            {
-                await _postRepository.SaveChangesAsync();
-
-            }
-            catch (Exception ex)
-            {
-
-                throw;
-            }
             return new CreatePostResult(post.Id);
         }
 
@@ -41,7 +31,5 @@ namespace BlogApp.Application.Posts
                 Content = post.Content
             };
         }
-
-
     }
 }
