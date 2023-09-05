@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\BlogApp.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Contracts\\BlogApp.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Contracts\\BlogApp.Contracts.csproj",
+        "projectName": "BlogApp.Contracts",
+        "projectPath": "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Contracts\\BlogApp.Contracts.csproj",
+        "packagesPath": "C:\\Users\\f.fatollahi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\f.fatollahi\\NuGet.Config",
+          "C:\\Users\\f.fatollahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://devops.meghdadit.com/DefaultCollection/_packaging/MitFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Domain\\BlogApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Domain\\BlogApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Domain\\BlogApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Domain\\BlogApp.Domain.csproj",
+        "projectName": "BlogApp.Domain",
+        "projectPath": "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Domain\\BlogApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\f.fatollahi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\f.fatollahi\\NuGet.Config",
+          "C:\\Users\\f.fatollahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://devops.meghdadit.com/DefaultCollection/_packaging/MitFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\BlogApp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\BlogApp.Infrastructure.csproj",
+        "projectName": "BlogApp.Infrastructure",
+        "projectPath": "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\BlogApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\f.fatollahi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\f.fatollahi\\NuGet.Config",
+          "C:\\Users\\f.fatollahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://devops.meghdadit.com/DefaultCollection/_packaging/MitFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Contracts\\BlogApp.Contracts.csproj": {
+                "projectPath": "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Contracts\\BlogApp.Contracts.csproj"
+              },
+              "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Domain\\BlogApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\f.fatollahi\\source\\repos\\BlogApp\\BlogApp.Domain\\BlogApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

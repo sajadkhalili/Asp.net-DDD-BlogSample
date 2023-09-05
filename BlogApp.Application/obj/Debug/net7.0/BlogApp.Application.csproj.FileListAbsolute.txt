@@ -1,0 +1,17 @@
+C:\Users\f.fatollahi\source\repos\BlogApp\BlogApp.Application\bin\Debug\net7.0\BlogApp.Application.deps.json
+C:\Users\f.fatollahi\source\repos\BlogApp\BlogApp.Application\bin\Debug\net7.0\BlogApp.Application.dll
+C:\Users\f.fatollahi\source\repos\BlogApp\BlogApp.Application\bin\Debug\net7.0\BlogApp.Application.pdb
+C:\Users\f.fatollahi\source\repos\BlogApp\BlogApp.Application\bin\Debug\net7.0\BlogApp.Contracts.dll
+C:\Users\f.fatollahi\source\repos\BlogApp\BlogApp.Application\bin\Debug\net7.0\BlogApp.Domain.dll
+C:\Users\f.fatollahi\source\repos\BlogApp\BlogApp.Application\bin\Debug\net7.0\BlogApp.Contracts.pdb
+C:\Users\f.fatollahi\source\repos\BlogApp\BlogApp.Application\bin\Debug\net7.0\BlogApp.Domain.pdb
+C:\Users\f.fatollahi\source\repos\BlogApp\BlogApp.Application\obj\Debug\net7.0\BlogApp.Application.csproj.AssemblyReference.cache
+C:\Users\f.fatollahi\source\repos\BlogApp\BlogApp.Application\obj\Debug\net7.0\BlogApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.fatollahi\source\repos\BlogApp\BlogApp.Application\obj\Debug\net7.0\BlogApp.Application.AssemblyInfoInputs.cache
+C:\Users\f.fatollahi\source\repos\BlogApp\BlogApp.Application\obj\Debug\net7.0\BlogApp.Application.AssemblyInfo.cs
+C:\Users\f.fatollahi\source\repos\BlogApp\BlogApp.Application\obj\Debug\net7.0\BlogApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\f.fatollahi\source\repos\BlogApp\BlogApp.Application\obj\Debug\net7.0\BlogApp.Application.csproj.CopyComplete
+C:\Users\f.fatollahi\source\repos\BlogApp\BlogApp.Application\obj\Debug\net7.0\BlogApp.Application.dll
+C:\Users\f.fatollahi\source\repos\BlogApp\BlogApp.Application\obj\Debug\net7.0\refint\BlogApp.Application.dll
+C:\Users\f.fatollahi\source\repos\BlogApp\BlogApp.Application\obj\Debug\net7.0\BlogApp.Application.pdb
+C:\Users\f.fatollahi\source\repos\BlogApp\BlogApp.Application\obj\Debug\net7.0\ref\BlogApp.Application.dll
