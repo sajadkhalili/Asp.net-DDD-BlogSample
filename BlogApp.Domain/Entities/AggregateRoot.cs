@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace BlogApp.Domain.Entities
 {
-    public abstract class AggregateRoot : Entity<string>
+    public abstract class AggregateRoot<TId> : Entity<TId>
     {
+      public string EXId 
     }
 }
